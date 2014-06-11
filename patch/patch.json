@@ -1,0 +1,8 @@
+{
+    "name": "Show icons in folder",
+    "description": "A homescreen patch that provides icons in folder",
+    "category": "homescreen",
+    "infos": {
+        "maintainer": "coderus"
+    }
+}
