@@ -10,7 +10,7 @@ Subject: [PATCH 1/1] Icons folder
  3 files changed, 173 insertions(+), 41 deletions(-)
  create mode 100644 qml/launcher/FolderIcon.qml
 
-diff --git a/qml/launcher/FolderIcon.qml b/qml/launcher/FolderIcon.qml
+diff --git a/qml/launcher/FolderIcon.qml b/usr/share/lipstick-jolla-home-qt5/qml/launcher/FolderIcon.qml
 new file mode 100644
 index 0000000..42a9c4e
 --- /dev/null
