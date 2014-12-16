@@ -4,7 +4,7 @@ Date:   Tue Dec 16 04:24:53 2014 +0500
 
     Remastered folder icons
 
-diff --git a/usr/share/lipstick-jolla-home-qt5/launcher/FolderIcon.qml b/launcher/FolderIcon.qml
+diff --git a/usr/share/lipstick-jolla-home-qt5/launcher/FolderIcon.qml b/usr/share/lipstick-jolla-home-qt5/launcher/FolderIcon.qml
 new file mode 100644
 index 0000000..fe7f92f
 --- /dev/null
