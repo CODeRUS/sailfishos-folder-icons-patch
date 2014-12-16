@@ -16,7 +16,7 @@ Group:      Qt/Qt
 License:    TODO
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   patchmanager
-Requires:   lipstick-jolla-home-qt5 >= 0.21.2.5
+Requires:   lipstick-jolla-home-qt5 >= 0.22.44.7
 
 %description
 A homescreen patch that provides icons in folder
